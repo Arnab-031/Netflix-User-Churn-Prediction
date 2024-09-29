@@ -28,7 +28,7 @@ Technologies Used
 	•	Libraries: pandas, matplotlib, seaborn, scikit-learn
 	•	Jupyter Notebooks: For analysis, visualization, and predictive modeling.
 
-Dataset  kaggle datasets download -d arnavsmayan/netflix-userbase-dataset
+Dataset  https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset
 
 Key Insights
 
