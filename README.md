@@ -7,20 +7,20 @@ This project focuses on analyzing Netflix’s userbase to uncover insights relat
 Key Features
 
 	1.	Churn Analysis:
-	•	Investigated churn rates by subscription type, country, and device.
-	•	Identified segments with high churn and revenue loss potential.
+		Investigated churn rates by subscription type, country, and device.
+		Identified segments with high churn and revenue loss potential.
 	2.	Revenue Impact:
-	•	Assessed total revenue lost due to churn.
-	•	Highlighted opportunities to recover lost revenue through retention efforts.
+		Assessed total revenue lost due to churn.
+		Highlighted opportunities to recover lost revenue through retention efforts.
 	3.	Device Usage:
-	•	Analyzed how users access Netflix via different devices (Smartphones, Tablets, Laptops, Smart TVs).
-	•	Uncovered device-specific patterns contributing to churn.
+		Analyzed how users access Netflix via different devices (Smartphones, Tablets, Laptops, Smart TVs).
+		Uncovered device-specific patterns contributing to churn.
 	4.	Time-Based Trends:
-	•	Explored user growth and payment trends over time.
-	•	Detected periods of significant user activity and revenue dips.
+		Explored user growth and payment trends over time.
+		Detected periods of significant user activity and revenue dips.
 	5.	Churn Prediction:
-	•	Developed a churn prediction model using a Random Forest Classifier.
-	•	Predicted which users are most likely to churn based on user behavior, payment history, and device preferences.
+		Developed a churn prediction model using a Random Forest Classifier.
+		Predicted which users are most likely to churn based on user behavior, payment history, and device preferences.
 
 Technologies Used
 
